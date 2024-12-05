@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- to add a new item to the list when a button is clicked.-->
+     <ul>
+        <li> Kepler</li>
+        <li> ALU</li>
+        <li>UK</li>
+    </ul>
+<button id="click">clickMe</button>
+</body>
+<script>
+    const button=document.querySelector('button');
+    const list=document.querySelector('ul');
+    const school=document.createTextNode("AUCA");
+    const unordered= document.createElement('li');
+button.addEventListener('click', () =>{
+    list.appendChild(unordered);
+    unordered.appendChild(school);
+    
+    
+})
+</script>
+</html>

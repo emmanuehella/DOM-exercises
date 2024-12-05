@@ -1,0 +1,158 @@
+img{
+    width: 317px;
+height: 317px;
+top: 44px;
+left: 116px;
+gap: 0px;
+border-radius: 10px 10px 0px 0px;
+opacity: 0px;
+}
+body{
+    width: 550px;
+height: 868px;
+top: 287px;
+left: 318px;
+padding: 44px 116px 44px 116px;
+
+
+}
+h1{
+    width: 178.06px;
+height: 25.81px;
+top: 382px;
+left: 186px;
+
+font-family: Inter;
+font-size: 25px;
+font-weight: 700;
+line-height: 30.26px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+text-align:center;
+}
+h4{
+    width: 178.06px;
+height: 14.19px;
+top: 414px;
+left: 186px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 12.8px;
+font-weight: 400;
+line-height: 15.49px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F3BF99;
+}
+h5{
+    width: 228px;
+height: 16px;
+top: 437px;
+left: 161px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 10.24px;
+font-weight: 400;
+line-height: 15.36px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F5F5F5;
+
+}
+button{
+    padding: 9px 11px 9px 13px;
+    margin: auto;
+}
+#Email{
+   border-radius: 6px;
+background: #FFFFFF;
+margin:auto;
+}
+#LinkedIn{
+    border-radius: 6px;
+background: #5093E2;
+box-shadow: 0px 1px 2px 0px #0000000D;
+text-align:center;
+
+}
+h3{
+    width: 242.71px;
+height: 21px;
+top: 554px;
+left: 151px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F5F5F5;
+text-align:justify;
+
+}
+h2{
+    width: 242.71px;
+height: 21px;
+top: 668px;
+left: 151px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #F5F5F5;
+text-align:justify;
+
+}
+p{
+    width: 247px;
+height: 61px;
+top: 580px;
+left: 151px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 10.24px;
+font-weight: 400;
+line-height: 15.36px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #DCDCDC;
+
+}
+*{
+    background: #23252C;
+
+
+}
+footer{
+    width: 175px;
+height: 11px;
+top: 785px;
+left: 171px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 9px;
+font-weight: 700;
+line-height: 10.89px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFFA6;
+
+}

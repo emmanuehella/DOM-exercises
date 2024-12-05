@@ -1,0 +1,39 @@
+<!--Implement Two Buttons for Toggling Element Visibility and Increasing Font Size
+Instructions: Develop two buttons. The first button should toggle the visibility of a specified element on the page. The second button, when double-clicked, should increase the font size of the same element.-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    .hidden{
+        visibility: hidden;
+    }
+    .font{
+        font-size: larger;
+    }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <button id="first">firstbut</button>
+  <button id="two">secondbut</button>
+  <p> I am specified</p>
+
+
+<script>
+   const first1= document.querySelector('#first') ;
+   const second2=document.querySelector('#two');
+const para= document.querySelector('p');
+first1.addEventListener('click', function (){
+    para.classList.toggle('hidden');
+
+
+})
+second2.addEventListener('dblclick', function(){
+    para.classList.add('font');
+})
+
+</script>
+</body>
+</html>

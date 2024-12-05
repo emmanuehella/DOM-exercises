@@ -1,0 +1,83 @@
+h1{
+    width: 548.15px;
+height: 111.62px;
+left: 0.06px;
+padding: 36px 377.64px 34.62px 26px;
+
+}
+.previous{
+
+color:black;
+width: 119px;
+height: 23px;
+}
+img{
+    width: 497.32px;
+height: 490.35px;
+top: 215.27px;
+left: 26.91px;
+
+border-radius: 5px 0px 0px 0px;
+
+}
+#simple{
+    width: 85.71px;
+height: 33.89px;
+top: 756px;
+left: 27.06px;
+
+border-radius: 5px 5px 5px 5px;
+background-color: coral;
+border: #FFF7;
+
+}
+h2{
+    width: 494.33px;
+    height: 34px;
+    top: 810.27px;
+    left: 26.91px;
+    color: #161616;
+}
+.paragraph{
+    width: 494.33px;
+height: 120px;
+top: 908.81px;
+left: 26.91px;
+color: black;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 23.92px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+#link{
+    width: 494.33px;
+height: 49.83px;
+top: 1050.46px;
+left: 26.91px;
+
+border-radius: 4.98px 4.98px 4.98px 4.98px;
+background-color: chocolate;
+color: aliceblue;
+}
+#foot{
+    width: 500px;
+    height: 74.75px;
+    top: 1185px;
+    left: 7%;
+    padding: 25.68px 106.28px 25.15px 106px;
+    background-color: #161616;
+    color: aliceblue;
+    
+}
+
+#vanlife{
+    margin: auto;
+    width: 548.15px;
+    background: #FFF7ED;
+}
+#formofvan{
+    margin: 0 auto;
+}

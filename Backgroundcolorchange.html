@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- use DOM events to change the background color of the <body> element -->
+<p> i am changing</p>
+</body>
+<script>
+    const bosy=document.querySelector("body");
+    const para=document.querySelector("p");
+    para.addEventListener("mouseover", () => {
+        para.style.backgroundColor="red";
+    })
+</script>
+</html>

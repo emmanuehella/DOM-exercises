@@ -1,0 +1,26 @@
+<!-- Create a button on the page.
+Write a JavaScript function that increments a counter each time the button is clicked.
+Display the updated counter value on the page in a <span> element.
+Make sure the counter increments only when the button is clicked, and the updated value is displayed. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example</title>
+</head>
+<body>
+    <button class="but">Click Me!</button>
+    <span class="spanning" type="number"></span>
+    <script>
+        
+        let sp = document.querySelector('.spanning');
+        // sp.innerHTML = 0;
+        const butt = document.querySelector('.but');
+        butt.addEventListener('click', function(){
+            sp.innerHTML=Number(sp.innerHTML)+1;
+        });
+</script>
+</body>>
+
+</html>

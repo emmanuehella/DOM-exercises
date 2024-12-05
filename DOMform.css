@@ -1,0 +1,45 @@
+#images{
+    width: 158px;
+height: 600px;
+color: black;
+margin: 0 auto;
+}
+h2{
+  color: #F28D00;
+text-align: justify;
+width: 1121px;
+    height: 25px;
+}
+p{
+    width: 500px;
+    height: 120px;
+    font-size:large;
+    text-align:justify;
+}
+h3{
+    color: #F28D00;
+    text-align: justify;
+    width: 1121px;
+    height: 25px;
+}
+h4{
+    color: #F28D00;
+    text-align: justify;
+}
+input{
+    height: 25px;
+    width: 400px;
+    border-radius: 15px;
+    border: none;
+}
+#words{
+    width: 500px;
+   
+}
+body{
+    background-color: darkgray;
+    
+}
+#container{
+    margin: 0px 134px;
+}
